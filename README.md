@@ -20,9 +20,9 @@
 <hr/>
 
 ### GitHub stats 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komurananami&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komurananami&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami&layout=compact&theme=radical)](https://github.com/komurananami/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami&count_private=true&layout=compact&theme=radical)](https://github.com/komurananami/github-readme-stats)
 
 
 
