@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-### status
+### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komurananami&show_icons=true&theme=radical)
 
-### top language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami&theme=radical)](https://github.com/komurananami/github-readme-stats)
-
+### Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami&layout=compact&theme=radical)](https://github.com/komurananami/github-readme-stats)
 
 
