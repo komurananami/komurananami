@@ -6,6 +6,8 @@
 ### top language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami)](https://github.com/komurananami/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami&layout=compact)](https://github.com/komurananami/github-readme-stats)
+
 <!--
 **komurananami/komurananami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
