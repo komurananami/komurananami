@@ -1,13 +1,14 @@
 ### Hi there 👋
 <hr />
 
-### Who am I
+### Who am I 🕺
 
-👩‍🎓 Student of Kagoshima, major:Architecture
-<br>🔥 Engineer candidate<br/>
+＊ Student of Kagoshima, major:Architecture
+<br>＊ Engineer candidate<br/>
 <hr />
 
-### Techs
+
+### Techs 🐣
 
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -15,7 +16,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 <hr/>
 
-### GitHub stats
+### GitHub stats 🌱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komurananami&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komurananami&layout=compact&theme=radical)](https://github.com/komurananami/github-readme-stats)
