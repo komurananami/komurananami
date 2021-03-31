@@ -3,8 +3,8 @@
 
 ### Who am I 🕺
 
-＊ Student of Kagoshima, major:Architecture
-<br>＊ Engineer candidate<br/>
+＊ Student of Kagoshima University, major: Architecture
+<br>＊ Junior Engineer<br/>
 <hr />
 
 
